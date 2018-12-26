@@ -1,3 +1,5 @@
+My report: https://yuerer.com/tags/uCore/
+
 INTRODUCTION
 ============
 ucore os labs was used as OS Experiments in OS Course Of Dept. of Computer Science & Technology, Tsinghua University.
